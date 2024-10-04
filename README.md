@@ -13,3 +13,9 @@
 2. Dos
 3. Tres
 4. Cuatro
+
+**Texto Negritas**
+_Texto Italica_
+***Negritas Italica***
+
+![Descripcion Imagen](https://pbs.twimg.com/media/D4dFrJSX4AkkPJQ?format=jpg&name=small).
