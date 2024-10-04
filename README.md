@@ -1,2 +1,6 @@
-# FP
-Fundamentos de Programación 3/oct/24
+# Titulo 1
+## Titulo 2
+### Titulo 3
+#### Titulo 4
+##### Titulo 5
+###### Titulo 6
